@@ -1,3 +1,3 @@
 # 0x01-git
 
-i like a code
+# it is not easy to code
